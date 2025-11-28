@@ -10,7 +10,7 @@ COPY . .
 RUN chmod +x gradlew
 
 # Build directly
-RUN ./gradlew clean transfer:transfer-00-prerequisites:connector:build \
+RUN ./gradlew clean :transfer:transfer-00-prerequisites:connector:build \
     --no-daemon \
     --stacktrace \
     --info
