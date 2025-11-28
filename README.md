@@ -73,3 +73,4 @@ See [how to contribute](https://github.com/eclipse-edc/docs/blob/main/CONTRIBUTI
 ## License
 
 This project is licensed under the Apache License 2.0 - see [here](LICENSE) for details.
+# edc-connector
