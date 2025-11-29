@@ -1,6 +1,14 @@
 # Compiled class file
 *.class
 
+# Allow Gradle wrapper folder
+!gradle/
+!gradle/wrapper/
+!gradle/wrapper/**
+!gradle/wrapper/gradle-wrapper.jar
+!gradle/wrapper/gradle-wrapper.properties
+
+
 # Log file
 *.log
 
